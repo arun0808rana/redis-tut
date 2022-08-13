@@ -13,6 +13,16 @@ sudo apt-get update
 sudo apt-get install redis
 ```
 
+## Start server
+```bash
+redis-server
+```
+
+## Start interactive mode
+```bash
+redis-cli
+```
+
 ## Commands List
 
 ```bash
